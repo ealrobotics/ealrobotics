@@ -3,7 +3,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: (theme) => ({
-        "main-img": "url('../assets/takim.jpeg')",
+        "main-img": "url('../assets/team.jpg')",
         "vision-img": "url('../assets/vision.jpg')",
         "mission-img": "url('../assets/mission.jpg')",
       }),
