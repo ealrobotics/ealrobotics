@@ -1,4 +1,4 @@
 node_modules/
 src/fullpage.css
 src/fullpage.js
-package-lock.json
+yarn.lock
