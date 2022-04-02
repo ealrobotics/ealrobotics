@@ -28,9 +28,32 @@ html {
 }
 
 #down-arrow {
-  border: solid #86def2;
-  border-width: 0 5px 5px 0;
+  opacity: 0;
+}
+
+.ml7 {
+  position: relative;
+}
+.ml7 .text-wrapper {
+  position: relative;
   display: inline-block;
-  padding: 15px;
-  transform: rotate(45deg);
+  overflow: hidden;
+}
+.ml7 .letter {
+  transform-origin: 0 100%;
+  display: inline-block;
+}
+
+.ml6 {
+  position: relative;
+}
+
+.ml6 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+}
+
+.ml6 .letter {
+  display: inline-block;
 }
